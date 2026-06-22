@@ -1,0 +1,10 @@
+{
+  "name": "SecureTrack Dashboard",
+  "description": "A comprehensive phone security and tracking dashboard featuring live location, SOS, and admin management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
